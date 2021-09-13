@@ -25,7 +25,7 @@ win.geometry("350x350")
 
 l1=Label(win, text = "PLEASE REGISTER NOW",bg="black",fg="white",font="times 12")
 l1.pack()
-
+#declaration
 first= StringVar()
 last = StringVar()
 age = IntVar()
